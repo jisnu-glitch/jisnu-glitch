@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="700">
 <br>
 <h1 align="center">Hi 👋, I'm Jishnu Vijayan</h1>
 <h3 align="center">Engineering Student | DSA Enthusiast | Future Software Engineer</h3>
