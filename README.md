@@ -81,14 +81,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jisnu-glitch&theme=tokyonight&no-frame=true&margin-w=8"/>
-</p>
-
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
@@ -105,6 +97,4 @@
 
 ---
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=jisnu-glitch&icon=5&color=6"/>
-</p>
+
