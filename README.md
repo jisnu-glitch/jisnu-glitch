@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="1000" height="500">
+
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="1000" height="500">
 <br>
 <h1 align="center">Hi 👋, I'm Jishnu Vijayan</h1>
