@@ -9,13 +9,13 @@
 
 🚀 Currently building **real-world projects** and grinding **Data Structures & Algorithms** for placements.  
 
-🤝 Open to collaborating on **innovative projects** that push my problem-solving skills.  
+   Open to collaborating on **innovative projects** that push my problem-solving skills.  
 
-🧠 Looking for guidance in **advanced DSA**, **system design**, and writing **production-level code**.  
+   Looking for guidance in **advanced DSA**, **system design**, and writing **production-level code**.  
 
-🌱 Learning deeper problem-solving techniques, backend fundamentals, and how to think like a strong engineer.  
+   Learning deeper problem-solving techniques, backend fundamentals, and how to think like a strong engineer.  
 
-💬 Ask me about **DSA, engineering life, productivity, and consistency in tech.**  
+   Ask me about **DSA, js, ae, python.**  
 
 ⚡ **Fun fact:** Once I start solving a problem, I don’t stop until I crack it.
 
