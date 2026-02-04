@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-🚀 Currently building **real-world projects** and grinding **Data Structures & Algorithms** for placements.  
+   Currently building **real-world projects** and grinding **Data Structures & Algorithms**   
 
    Open to collaborating on **innovative projects** that push my problem-solving skills.  
 
