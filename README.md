@@ -13,11 +13,11 @@
 
    Looking for guidance in **advanced DSA**, **system design**, and writing **production-level code**.  
 
-   Learning deeper problem-solving techniques, backend fundamentals, and how to think like a strong engineer.  
+   Learning deeper problem-solving techniques, backend fundamentals.
 
    Ask me about **DSA, js, ae, python.**  
 
-⚡ **Fun fact:** Once I start solving a problem, I don’t stop until I crack it.
+⚡ **Fun fact:** sometimes look behind
 
 ---
 
